@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\Admin\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\Admin\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\Admin\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\Cinema.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\Admin\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
